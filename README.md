@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="assets/logo.png" alt="MuzicX Logo" width="200"/>
+  <img src="assets/logo.png" alt="MuzicX Logo" width="200"/> # MuzicX
   
-  # 🎵 MuzicX
   
   ### Your Ultimate Music Streaming & Download Companion
   
@@ -252,4 +251,5 @@ MuzicX is a third-party application and is not affiliated with or endorsed by Yo
   [Website](https://muzicx.app) • [Privacy Policy](https://muzicx.app/privacy) • [Terms of Service](https://muzicx.app/terms)
   
 </div>#
+
 
