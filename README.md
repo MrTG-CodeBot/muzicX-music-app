@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="MuzicX Logo" width="200"/>
   
-  # MuzicX
+  # MuzicX App
   
   
   ### Your Ultimate Music Streaming & Download Companion
@@ -9,7 +9,7 @@
   [![Flutter](https://img.shields.io/badge/Flutter-3.4.1+-02569B?logo=flutter)](https://flutter.dev)
   [![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase)](https://firebase.google.com)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![Version](https://img.shields.io/badge/Version-4.2.8-blue.svg)](https://github.com/yourusername/muzicx)
+  [![Version](https://img.shields.io/badge/Version-4.2.8-blue.svg)](https://github.com/MrTG-CodeBot/muzicX-music-app)
   
   **Stream • Download • Enjoy**
   
@@ -22,7 +22,7 @@
 ## 📱 App Preview
 
 <div align="center">
-  <img src="assets/images/app_interface.png" alt="MuzicX App Interface" width="300"/>
+  <img src="assets/app_interface.jpg" alt="MuzicX App Interface" width="300"/>
   <p><i>Beautiful, intuitive interface designed for music lovers</i></p>
 </div>
 
@@ -253,6 +253,7 @@ MuzicX is a third-party application and is not affiliated with or endorsed by Yo
   [Website](https://muzicx.app) • [Privacy Policy](https://muzicx.app/privacy) • [Terms of Service](https://muzicx.app/terms)
   
 </div>#
+
 
 
 
