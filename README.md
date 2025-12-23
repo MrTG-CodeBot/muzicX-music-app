@@ -251,6 +251,4 @@ MuzicX is a third-party application and is not affiliated with or endorsed by Yo
   
   [Website](https://muzicx.app) • [Privacy Policy](https://muzicx.app/privacy) • [Terms of Service](https://muzicx.app/terms)
   
-</div>#   m u z i c X - m u s i c - a p p  
- #   m u z i c X - m u s i c - a p p  
- 
+</div>#
