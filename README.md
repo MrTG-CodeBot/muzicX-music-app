@@ -128,9 +128,6 @@ If you like MuzicX, please consider:
 - 💡 Suggesting new features
 - 📢 Sharing with your friends
 
-### Contact & Support
-- 💬 Discord: [Join our community](https://discord.gg/muzicx)
-
 ---
 
 ## ⚠️ Disclaimer
@@ -148,6 +145,7 @@ MuzicX is a third-party application and is not affiliated with or endorsed by Yo
   [Website](https://muzic-x.vercel.app/) • 
   
 </div>
+
 
 
 
