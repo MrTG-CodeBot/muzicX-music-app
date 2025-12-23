@@ -147,7 +147,8 @@ MuzicX is a third-party application and is not affiliated with or endorsed by Yo
   
   [Website](https://muzic-x.vercel.app/) • 
   
-</div>#
+</div>
+
 
 
 
