@@ -216,7 +216,7 @@ If you enjoy MuzicX:
 
 <div align="center">
 
-## 🎵 Made by MuzicX Team
+## 🎵 Developed by MuzicX
 
 ### Stream. Download. Enjoy.
 
