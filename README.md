@@ -22,7 +22,7 @@
 ## 📱 App Preview
 
 <div align="center">
-  <img src="assets/phone/home_page.jpg" alt="MuzicX App Interface" width="300"/>
+  <img src="screenshots/phone/home_page.jpg" alt="MuzicX App Interface" width="300"/>
   <p><i>Beautiful, intuitive interface designed for music lovers</i></p>
 </div>
 
