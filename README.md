@@ -33,7 +33,6 @@
 
 <div align="center">
 
-> Replace this image with a GIF recording later
 
 <img src="screenshots/phone/home_page.jpg" width="260">
 
@@ -145,7 +144,7 @@
 | ------------------ | ------ |
 | Offline Playback   | ✅      |
 | Playlist Downloads | ✅      |
-| Spotify Import     | ✅      |
+| Spotify Import     | ❎(fix soon)|
 | Lyrics Support     | ✅      |
 | Dynamic Themes     | ✅      |
 | Sleep Timer        | ✅      |
@@ -154,19 +153,6 @@
 
 ---
 
-# 🛠 Tech Stack
-
-| Technology          | Usage            |
-| ------------------- | ---------------- |
-| Flutter             | Frontend         |
-| Firebase            | Backend          |
-| Hive                | Local Database   |
-| YouTube Music API   | Music Source     |
-| Spotify API         | Playlist Import  |
-| Just Audio          | Audio Playback   |
-| Provider / Riverpod | State Management |
-
----
 
 # 📥 Installation
 
@@ -176,17 +162,6 @@ Visit:
 
 https://muzic-x.vercel.app/
 
-## Build From Source
-
-```bash
-git clone https://github.com/MrTG-CodeBot/muzicX-music-app.git
-
-cd muzicX-music-app
-
-flutter pub get
-
-flutter run
-```
 
 ---
 
@@ -195,30 +170,12 @@ flutter run
 * ✅ Music Streaming
 * ✅ Downloads
 * ✅ Offline Playback
-* ✅ Spotify Import
+* ❎ Spotify Import (The spotify api have some issues it will update soon)
 * ✅ YouTube Import
-* ✅ Dynamic Themes
-* ✅ Equalizer
-* 🚧 Windows Support
-* 🚧 Linux Support
-* 🚧 AI Recommendations
+* ✅ Windows Support
 
 ---
 
-# 🗺 Roadmap
-
-* [x] Music Streaming
-* [x] Downloads
-* [x] Playlist Support
-* [x] Spotify Import
-* [x] Lyrics Support
-* [ ] Desktop Version
-* [ ] Smart Recommendations
-* [ ] AI Playlist Generator
-* [ ] Chromecast Support
-* [ ] Collaborative Playlists
-
----
 
 # 🌐 Website
 
@@ -249,8 +206,6 @@ Please respect copyright laws and artist rights when using this application.
 
 If you enjoy MuzicX:
 
-⭐ Star the repository
-
 🐛 Report bugs
 
 💡 Suggest features
@@ -261,7 +216,7 @@ If you enjoy MuzicX:
 
 <div align="center">
 
-## 🎵 Made with ❤️ by MuzicX Team
+## 🎵 Made by MuzicX Team
 
 ### Stream. Download. Enjoy.
 
