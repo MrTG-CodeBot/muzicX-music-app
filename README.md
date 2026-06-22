@@ -1,154 +1,270 @@
 <div align="center">
-  <img src="assets/logo.png" alt="MuzicX Logo" width="200"/>
-  
-  # MuzicX App
-  
-  
-  ### Your Ultimate Music Streaming & Download Companion
-  
-  [![Flutter](https://img.shields.io/badge/Flutter-3.4.1+-02569B?logo=flutter)](https://flutter.dev)
-  [![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase)](https://firebase.google.com)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![Version](https://img.shields.io/badge/Version-4.2.8-blue.svg)](https://github.com/MrTG-CodeBot/muzicX-music-app)
-  
-  **Stream • Download • Enjoy**
-  
-  [Download Now](#installation) • [Features](#features) • [Screenshots](#screenshots) • [Support](#support)
-  
+
+<img src="assets/logo.png" width="180">
+
+# 🎵 MuzicX
+
+### Your Ultimate Music Streaming & Download Companion
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Stream+Music+Anywhere;Download+For+Offline+Listening;Import+Spotify+Playlists;Modern+Flutter+Music+Player">
+
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-3.4.1+-02569B?style=for-the-badge\&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?style=for-the-badge\&logo=firebase)
+![Android](https://img.shields.io/badge/Android-Supported-34A853?style=for-the-badge\&logo=android)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+<br>
+
+⭐ Stream • Download • Organize • Enjoy ⭐
+
+<br>
+
+<a href="https://muzic-x.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Website-Visit_Now-blue?style=for-the-badge">
+</a>
+
 </div>
 
 ---
 
-## 📱 App Preview
+# 🎬 App Preview
 
 <div align="center">
-  <img src="screenshots/phone/home_page.jpg" alt="MuzicX App Interface" width="300"/>
-  <p><i>Beautiful, intuitive interface designed for music lovers</i></p>
+
+> Replace this image with a GIF recording later
+
+<img src="screenshots/phone/home_page.jpg" width="260">
+
 </div>
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-### 🎼 Music Streaming & Discovery
-- **YouTube Music Integration** - Access millions of songs from YouTube Music
-- **Smart Search** - Find your favorite songs, albums, artists instantly
-- **Personalized Home** - Dynamic recommendations and trending music
-- **Browse by Genre** - Explore music across multiple categories
-- **Artist & Album Pages** - Deep dive into your favorite artists' discographies
+## 🎼 Music Streaming
 
-### 💾 Downloads & Offline Playback
-- **Downloads** - Download songs (M4A)
-- **Active Download Manager** - Track and manage multiple downloads simultaneously
-- **Playlist Downloads** - Download entire playlists with one tap
-- **Resume & Pause** - Full control over download operations
-- **Offline Mode** - Enjoy your music without internet connection
-- **Smart Storage Management** - View and manage downloaded files efficiently
+* YouTube Music Integration
+* Smart Search
+* Trending Songs
+* Artist Pages
+* Album Exploration
+* Genre Browsing
 
-### 📚 Library Management
-- **Favorites System** - Save your loved tracks with cloud sync
-- **Custom Playlists** - Create and organize unlimited playlists
-- **YouTube Music Import** - Import your YT Music playlists seamlessly
-- **Spotify Import** - Bring your Spotify playlists to MuzicX
-- **Listen History** - Track your listening habits across devices
-- **Smart Organization** - Auto-categorized library with search
+## 💾 Downloads
 
-### 🎵 Advanced Audio Player
-- **High-Fidelity Playback** - Crystal clear audio quality
-- **Queue Management** - Reorder, shuffle, and organize your queue
-- **Lyrics Support** - Synchronized lyrics display
-- **Sleep Timer** - Auto-stop playback after set duration
-- **Audio Equalizer** - Customize your sound experience
-- **Background Playback** - Continue listening while using other apps
-- **Mini Player** - Persistent playback controls across app
+* Song Downloads
+* Playlist Downloads
+* Resume Downloads
+* Download Queue
+* Offline Playback
+* Storage Management
 
-### 🎨 Customization & Preferences
-- **Dynamic Theming** - Automatic color adaptation based on album art
-- **Dark/Light Mode** - Choose your preferred theme
-- **Multiple Languages** - Localized interface support
-- **Custom Settings** - Personalize your experience
-- **Appearance Controls** - Fine-tune the visual experience
+## 📚 Library
 
-### 🔔 Smart Features
-- **Download Notifications** - Real-time progress updates
-- **Force Update System** - Stay up-to-date with latest features
-- **Share Songs** - Share your favorite tracks with friends
-- **Intent Sharing** - Open shared music links directly in MuzicX
-- **Offline Detection** - Smart handling of network changes
+* Favorites Sync
+* Unlimited Playlists
+* Spotify Import
+* YouTube Music Import
+* Listening History
+* Search Library
 
-### 🖥️ Platform Support
-- ✅ **Android** - Optimized for Android devices
+## 🎵 Audio Player
+
+* Background Playback
+* Lyrics Support
+* Sleep Timer
+* Queue Management
+* Equalizer
+* Mini Player
+
+## 🎨 Customization
+
+* Dynamic Colors
+* Dark Mode
+* Light Mode
+* Multiple Languages
+* Appearance Settings
+
 ---
 
-## 📸 Screenshots
+# 📱 Screenshots
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshots/home.jpg" alt="Home Screen" width="200"/></td>
-      <td><img src="screenshots/player.jpg" alt="Player Screen" width="200"/></td>
-      <td><img src="screenshots/library.jpg" alt="Library" width="200"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Home</b></td>
-      <td align="center"><b>Player</b></td>
-      <td align="center"><b>Library</b></td>
-    </tr>
-  </table>
+
+<table>
+
+<tr>
+
+<td align="center">
+<img src="screenshots/phone/home_page.jpg" width="220">
+<br>
+<b>🏠 Home</b>
+</td>
+
+<td align="center">
+<img src="screenshots/phone/search_page.jpg" width="220">
+<br>
+<b>🔍 Search</b>
+</td>
+
+<td align="center">
+<img src="screenshots/phone/music_player_page.jpg" width="220">
+<br>
+<b>🎵 Player</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="screenshots/phone/saved_page.jpg" width="220">
+<br>
+<b>❤️ Library</b>
+</td>
+
+<td align="center">
+<img src="screenshots/phone/settings_page.jpg" width="220">
+<br>
+<b>⚙️ Settings</b>
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
 ---
 
-## 🌐 Website
+# 🚀 Why MuzicX?
 
-Visit our official website: **[www.muzicx.app]([https://www.muzicx.app](https://muzic-x.vercel.app/))** 
-
-### Web Features
-- 📱 Download link for the apk 
-- 📚 Complete documentation
-- 🎓 User guides and tutorials
-- 💬 Community forum
-- 📧 Support center
-- 🆕 Latest updates and changelogs
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+| Feature            | MuzicX |
+| ------------------ | ------ |
+| Offline Playback   | ✅      |
+| Playlist Downloads | ✅      |
+| Spotify Import     | ✅      |
+| Lyrics Support     | ✅      |
+| Dynamic Themes     | ✅      |
+| Sleep Timer        | ✅      |
+| Equalizer          | ✅      |
+| Background Audio   | ✅      |
 
 ---
 
-## 💖 Support
+# 🛠 Tech Stack
 
-If you like MuzicX, please consider:
-
-- ⭐ Starring this repository
-- 🐛 Reporting bugs and issues
-- 💡 Suggesting new features
-- 📢 Sharing with your friends
+| Technology          | Usage            |
+| ------------------- | ---------------- |
+| Flutter             | Frontend         |
+| Firebase            | Backend          |
+| Hive                | Local Database   |
+| YouTube Music API   | Music Source     |
+| Spotify API         | Playlist Import  |
+| Just Audio          | Audio Playback   |
+| Provider / Riverpod | State Management |
 
 ---
 
-## ⚠️ Disclaimer
+# 📥 Installation
 
-MuzicX is a third-party application and is not affiliated with or endorsed by YouTube, Google, or Spotify. This app is intended for personal use only. Please respect copyright laws and artist rights.
+## Download APK
+
+Visit:
+
+https://muzic-x.vercel.app/
+
+## Build From Source
+
+```bash
+git clone https://github.com/MrTG-CodeBot/muzicX-music-app.git
+
+cd muzicX-music-app
+
+flutter pub get
+
+flutter run
+```
+
+---
+
+# 📊 Project Status
+
+* ✅ Music Streaming
+* ✅ Downloads
+* ✅ Offline Playback
+* ✅ Spotify Import
+* ✅ YouTube Import
+* ✅ Dynamic Themes
+* ✅ Equalizer
+* 🚧 Windows Support
+* 🚧 Linux Support
+* 🚧 AI Recommendations
+
+---
+
+# 🗺 Roadmap
+
+* [x] Music Streaming
+* [x] Downloads
+* [x] Playlist Support
+* [x] Spotify Import
+* [x] Lyrics Support
+* [ ] Desktop Version
+* [ ] Smart Recommendations
+* [ ] AI Playlist Generator
+* [ ] Chromecast Support
+* [ ] Collaborative Playlists
+
+---
+
+# 🌐 Website
+
+Official Website:
+
+https://muzic-x.vercel.app/
+
+Features:
+
+* APK Downloads
+* Documentation
+* Changelog
+* User Guides
+* Support Center
+* Latest Updates
+
+---
+
+# ⚠ Disclaimer
+
+MuzicX is a third-party application and is not affiliated with or endorsed by YouTube, Google, Spotify, or any associated companies.
+
+Please respect copyright laws and artist rights when using this application.
+
+---
+
+# 💖 Support
+
+If you enjoy MuzicX:
+
+⭐ Star the repository
+
+🐛 Report bugs
+
+💡 Suggest features
+
+📢 Share with friends
 
 ---
 
 <div align="center">
-  
-  **Made by the MuzicX Team**
-  
-  © 2025 MuzicX. All rights reserved.
-  
-  [Website](https://muzic-x.vercel.app/) • 
-  
+
+## 🎵 Made with ❤️ by MuzicX Team
+
+### Stream. Download. Enjoy.
+
+© 2026 MuzicX
+
 </div>
-
-
-
-
-
-
-
